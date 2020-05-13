@@ -1,11 +1,8 @@
 {
   "name": "greenhat.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Commit Hack",
   "main": "greenhat.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Mitul Patel",
   "license": "ISC"
 }
